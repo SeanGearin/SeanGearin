@@ -1,6 +1,6 @@
 # Sean Gearin
 
-Operator. Builder. Pattern recognition at the intersection of culture, capital, and technology.
+An operator who builds, not a builder who operates. Pattern recognition at the intersection of culture, capital, and technology.
 
 ## What I've Built
 
