@@ -6,7 +6,7 @@ An operator who builds, not a builder who operates. Pattern recognition at the i
 
 Pixel Vault — Founded and led as CEO. $120M raised. Series A co-led by 01 Advisors (Dick Costolo + Adam Bain). Partners included DraftKings, NFLPA, UFC, MLB.
 
-Adidas "Into the Metaverse" — Architected the drop from the Pixel Vault side. $24M in one afternoon. 30,000 NFTs. 138 countries. More Share of Search than any Adidas launch in history.
+Adidas "Into the Metaverse" — Architected the drop alongside adidas. $24M in one afternoon. 30,000 NFTs. 138 countries. More Share of Search than any Adidas launch in history.
 
 Crawley Town FC — Co-acquired a 126-year-old English football club with Daryl Morey and Preston Johnson. Promoted to League One at Wembley in year two. Adidas as kit sponsor. Sky Sports. ESPN.
 
