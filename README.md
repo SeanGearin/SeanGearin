@@ -14,7 +14,7 @@ Crawley Town FC — Co-acquired a 126-year-old English football club with Daryl 
 
 [Indistinct](https://indistinct.ai) — AI strategy and implementation for operators who need results, not decks.
 
-[Surfing](https://surfing.substack.com) — AI newsletter for operators. The frontier, written mid-ride. Mon/Thu.
+[Surfing](https://surfing.substack.com) — AI newsletter for operators. Surfing the AI Frontier — a field guide written mid-ride.
 
 [GZ](https://github.com/SeanGearin/GZ) — ICT trading alert system for prop firm futures traders. Semi-automated signal detection on ES and NQ with Telegram execution confirmation. Built with funded trader Cole Zegar.
 
